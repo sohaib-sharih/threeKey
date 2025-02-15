@@ -6,3 +6,4 @@ print("THIRD Change made in LOCAL")
 =======
 print("Change made in the REMOTE")
 >>>>>>> 02857c86d3999521ac286eef4d7948b6a01dd5c6
+#New line added on LOCAL, in line 9
