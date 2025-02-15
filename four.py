@@ -1,7 +1,7 @@
 print("This is a change made in the LOCAL REPOSITORY")
 print("This is a SECOND change made in the LOCAL REPOSITORY")
 <<<<<<< HEAD
-
+#change on line 4 only on LOCAL ------------> local change
 print("THIRD Change made in LOCAL")
 =======
 print("Change made in the REMOTE")
